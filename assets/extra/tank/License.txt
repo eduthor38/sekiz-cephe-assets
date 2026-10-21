@@ -1,0 +1,18 @@
+Tank models - OpenGameArt.org
+
+1) cool-low-poly-tonk/  (tankbase.glb + turret.glb, separate hull and turret)
+   "cool low poly tonk" by adalbertus-michael-georgios-bydgostiensis
+   https://opengameart.org/content/cool-low-poly-tonk
+
+2) heavy-tank-rts/  (heavy_tank00.glb, nodes "chassis" and "turret")
+   "Heavy Tank[extra low poly, RTS]" by 32kda
+   https://opengameart.org/content/heavy-tankextra-low-poly-rts
+
+License (both):
+CC0 1.0 Universal (CC0 1.0)
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Note: neither download ships a licence file. This file was written when the
+models were added to this repository; the licence is the one shown on each
+OpenGameArt page above.

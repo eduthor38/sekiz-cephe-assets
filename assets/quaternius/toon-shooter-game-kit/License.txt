@@ -1,0 +1,15 @@
+Toon Shooter Game Kit - Quaternius
+https://quaternius.com/packs/toonshootergamekit.html
+
+License:
+CC0 1.0 Universal (CC0 1.0)
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Note: the original download (Google Drive) ships without a License.txt.
+This file was written when the pack was added to this repository; the
+licence is taken from the official pack page above and from each model's
+licence field ("CC0 1.0") on Quaternius' own poly.pizza account:
+https://poly.pizza/bundle/Toon-Shooter-Game-Kit-qraiSXoAru
+
+Models by @Quaternius - https://www.patreon.com/quaternius
