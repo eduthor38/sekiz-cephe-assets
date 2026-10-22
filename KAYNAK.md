@@ -213,3 +213,8 @@ Modellerde yapılan değişiklik (küçültme, parçalama, renk) varsa jenerikte
 - **Stylized Low Poly Sci-Fi Buildings** (kisitli/scifi-stilize-binalar): yapımcı [Robin Butler](https://sketchfab.com/StarTrekGuy), model https://sketchfab.com/3d-models/stylized-low-poly-sci-fi-buildings-701381fef32444e79ad804315e563049, lisans CC Attribution-NonCommercial
 - **LOW POLY - SOVIET  APARTMENT BUILDING 8K** (kisitli/sovyet-apartman): yapımcı [Colin.Greenall](https://sketchfab.com/Colin.Greenall), model https://sketchfab.com/3d-models/low-poly-soviet-apartment-building-8k-05229ac1d1f94e6c8cacaad91110c602, lisans CC Attribution
 - **Destroyed building, study** (kisitli/yikik-bina): yapımcı [samuel.brunner](https://sketchfab.com/samuel.brunner), model https://sketchfab.com/3d-models/destroyed-building-study-8a95ab9548314c66bb0bf7c2191da80c, lisans CC Attribution-NonCommercial
+
+## Sketchfab dışındaki kaynaklar
+
+- **Zsky – Low Poly Military Base Pack** (`assets/itch/zsky-military-base/`): yapımcı Zsky (@Zsky_01), https://zsky2000.itch.io/military-base-pack , lisans CC BY 4.0. Jenerikte yapımcı adı ve Patreon bağlantısı yazılmalı: https://www.patreon.com/Zsky
+- **Poly Haven – Namaqualand** (`assets/polyhaven/`): CC0, atıf zorunlu değil; teşekkür olarak https://polyhaven.com yazılabilir.

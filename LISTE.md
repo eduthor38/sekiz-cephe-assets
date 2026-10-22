@@ -320,3 +320,38 @@ Taramada elenenler: Patriot (iki model, Battlefield işareti), "Darwin" nöbet t
 | Tel orgu seti | [Modular Chain Link Fence Set](https://sketchfab.com/3d-models/modular-chain-link-fence-set-bd85a8005ff0403cab2f1e9845016b8f) | FrodoUndead | CC Attribution | 3.100 | 2.7 MB | `assets/bina/tel-orgu-seti/` |
 | Tropik bitkiler | [Tropical Plants Pack M02P](https://sketchfab.com/3d-models/tropical-plants-pack-m02p-2f093afb792742438f0f7ba7eaab90f0) | MozzarellaARC | CC Attribution | 46.575 | 16.1 MB | `assets/bina/tropik-bitkiler/` |
 | Tunel kopru | [Bridge Over Tunnel](https://sketchfab.com/3d-models/bridge-over-tunnel-552c7f999ee94669817a99f7c3f00320) | jimbogies | CC Attribution | 10.750 | 27.7 MB | `assets/bina/tunel-kopru/` |
+
+## Bölüm 9: Poly Haven çöl seti ve Zsky askerî üs paketi
+
+### Poly Haven – Namaqualand (CC0)
+
+Güney Afrika çölünden gerçek taramalar. **Kaya ve bitki modelleri çok ağır (14.000–120.000 üçgen); oyunda kullanmadan önce sadeleştirilmeli.** Dokular 1K, renk ve normal haritası (normal, three.js'in kullandığı OpenGL düzeninde). Modeller glTF + `.bin` + `textures/` klasörüyle gelir; klasörü birlikte taşıyın.
+
+| Tür | Model | Lisans | Üçgen | Klasör |
+|---|---|---|---|---|
+| Bitki | [Crystalline Iceplant](https://polyhaven.com/a/crystalline_iceplant) | CC0 | 23487 | `assets/polyhaven/bitkiler/crystalline_iceplant/` |
+| Bitki | [Dead Quiver Branch 01](https://polyhaven.com/a/dead_quiver_branch_01) | CC0 | 14834 | `assets/polyhaven/bitkiler/dead_quiver_branch_01/` |
+| Bitki | [Dead Quiver Trunk](https://polyhaven.com/a/dead_quiver_trunk) | CC0 | 33706 | `assets/polyhaven/bitkiler/dead_quiver_trunk/` |
+| Bitki | [Wild Rooibos Bush](https://polyhaven.com/a/wild_rooibos_bush) | CC0 | 76521 | `assets/polyhaven/bitkiler/wild_rooibos_bush/` |
+| Zemin dokusu (1K renk + normal) | [Cliff Side](https://polyhaven.com/a/cliff_side) | CC0 | – | `assets/polyhaven/dokular/cliff_side/` |
+| Zemin dokusu (1K renk + normal) | [Gravelly Sand](https://polyhaven.com/a/gravelly_sand) | CC0 | – | `assets/polyhaven/dokular/gravelly_sand/` |
+| Zemin dokusu (1K renk + normal) | [Rock Face](https://polyhaven.com/a/rock_face) | CC0 | – | `assets/polyhaven/dokular/rock_face/` |
+| Zemin dokusu (1K renk + normal) | [Sandy Gravel 02](https://polyhaven.com/a/sandy_gravel_02) | CC0 | – | `assets/polyhaven/dokular/sandy_gravel_02/` |
+| Zemin dokusu (1K renk + normal) | [Tiger Rock](https://polyhaven.com/a/tiger_rock) | CC0 | – | `assets/polyhaven/dokular/tiger_rock/` |
+| Gökyüzü (2K HDR) | [Goegap Road](https://polyhaven.com/a/goegap_road) | CC0 | – | `assets/polyhaven/gokyuzu/goegap_road/` |
+| Kaya | [Namaqualand Boulder 03](https://polyhaven.com/a/namaqualand_boulder_03) | CC0 | 121546 | `assets/polyhaven/kayalar/namaqualand_boulder_03/` |
+| Kaya | [Namaqualand Boulder 04](https://polyhaven.com/a/namaqualand_boulder_04) | CC0 | 110746 | `assets/polyhaven/kayalar/namaqualand_boulder_04/` |
+| Kaya | [Namaqualand Boulders 01](https://polyhaven.com/a/namaqualand_boulders_01) | CC0 | 76590 | `assets/polyhaven/kayalar/namaqualand_boulders_01/` |
+| Kaya | [Namaqualand Stones 01](https://polyhaven.com/a/namaqualand_stones_01) | CC0 | 106602 | `assets/polyhaven/kayalar/namaqualand_stones_01/` |
+
+### Zsky – Low Poly Military Base Pack (CC BY 4.0)
+
+https://zsky2000.itch.io/military-base-pack — 23 model, FBX'ten FBX2glTF ile GLB'ye çevrildi; dokusuz, düz renkli. Klasör: `assets/itch/zsky-military-base/`. Jenerikte Zsky adı ve Patreon bağlantısı yazılmalı (`KAYNAK.md`).
+
+Modeller: Barrel, BarrierParking, Bathroom, ConcreteBlock, Container_01, Container_02, Container_03, Explosive_Barrel, GasTank, GateKeeperStation, HelicopterBase, LightPole, MedicTent, Quarter, RadioStation, Refectory, SandsSack, SniperTower, Storage, TargetPratice, Wall_01, Wall_02, WoodenBox.
+
+### Depoya konmayanlar
+
+- **ithappy Military Free:** lisansı CC değil; şirket lisansı ham dosyanın "olduğu gibi" paylaşılmasını (ücretsiz bile olsa) yasaklıyor.
+- **PSX Adventure Pack (caliberuk):** oyunda kullanım serbest, ham dosyaların yüklenmesi ve paylaşılması yasak. 56 GLB, bilgisayarda `D:\saklama\_calisma\sekiz-cephe-indir\itch\psx-adventure-pack\` klasöründe.
+- **Low Poly Desert Pack (whynomakethings):** sayfada lisans yok (varsayılan: tüm hakları saklı). 14 GLB, bilgisayarda `D:\saklama\_calisma\sekiz-cephe-indir\itch\low-poly-desert-pack\` klasöründe.
