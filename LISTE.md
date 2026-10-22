@@ -90,3 +90,31 @@ Arama ölçütleri: gerçekçi dokulu, "game ready / low poly"; araç ≤15.000,
 - **Kum Roketi (Shaanxi SX2190)** yapımcısının etiketine göre yapay zekâ yardımıyla üretilmiş ("createdwithai"). Lisans CC BY; ileride elle yapılmış bir modelle değiştirilebilir.
 - **Fab** modelleri alınmadı: Fab Standard License ham dosyanın herkese açık depoda paylaşılmasını yasaklıyor.
 
+## Bölüm 3: Ülke uçakları ve tankları (Sketchfab, CC BY 4.0)
+
+Gerçek ülkelerin silahları için ayrı klasör: `assets/ulke/<ülke>/<model>/`. Bölüm 2'deki gibi her birinin açıklaması okundu, kopya ya da yapay zekâ işareti olmayanlar alındı. Rusya'nın SU-57'si Bölüm 2'de (`assets/fab/kum/akbaba/`).
+
+| Birim | Model | Yapımcı | Lisans | Üçgen | Boyut | Klasör |
+|---|---|---|---|---|---|---|
+| Türkiye · KAAN | [TF-X KAAN](https://sketchfab.com/3d-models/tf-x-kaan-eb2575b139554e1985b139f9943f42d4) | SB-129 | CC Attribution | 3.503 | 1.4 MB | `assets/ulke/turkiye/kaan/` |
+| Türkiye · Bayraktar TB2 (SİHA) | [Baykar Bayraktar TB2](https://sketchfab.com/3d-models/baykar-bayraktar-tb2-8e5b6972f7d049f19688096e03949487) | TheDevilsEye | CC Attribution | 9.300 | 2.3 MB | `assets/ulke/turkiye/bayraktar-tb2/` |
+| ABD · F-35 | [Low poly F-35 Lightning II](https://sketchfab.com/3d-models/low-poly-f-35-lightning-ii-561b5c56fbf94636a465f998e9af1224) | SIpriv | CC Attribution | 7.689 | 0.6 MB | `assets/ulke/abd/f-35/` |
+| ABD · F-22 | [Low poly F22 Raptor](https://sketchfab.com/3d-models/low-poly-f22-raptor-6a6014b7c88745fb94e7dfa1c015cc55) | SIpriv | CC Attribution | 7.786 | 0.6 MB | `assets/ulke/abd/f-22/` |
+| ABD · F-16 | [F-16 Fighter Jet](https://sketchfab.com/3d-models/f-16-fighter-jet-d84491f443384ee488593cc6f0f0839e) | iedalton | CC Attribution | 4.214 | 0.3 MB | `assets/ulke/abd/f-16/` |
+| Rusya · Su-35 | [Su35](https://sketchfab.com/3d-models/su35-8affd5d4f56f4d9190da55b4579bc46a) | _Muzaev | CC Attribution | 11.324 | 0.6 MB | `assets/ulke/rusya/su-35/` |
+| Çin · J-20 | [J-20 Stealth Fighter Aircraft](https://sketchfab.com/3d-models/j-20-stealth-fighter-aircraft-74e1222399f94dc28416fd02edd98938) | Void | CC Attribution | 15.539 | 6.9 MB | `assets/ulke/cin/j-20/` |
+| Çin · J-35 | [Shenyang J-35](https://sketchfab.com/3d-models/shenyang-j-35-37085f458d7943cd8314372af76e0f67) | SB-129 | CC Attribution | 8.235 | 1.8 MB | `assets/ulke/cin/j-35/` |
+| Çin · J-16 | [Shenyang J16 "Hidden Dragon"](https://sketchfab.com/3d-models/shenyang-j16-hidden-dragon-2b950f910677457fbb52b6096f81e70b) | andertan | CC Attribution | 14.442 | 1.1 MB | `assets/ulke/cin/j-16/` |
+| Çin · Type 99 (ana tank) | [Type 99 MBT](https://sketchfab.com/3d-models/type-99-mbt-7075c92c5ef1408497f1530703ff2942) | philano | CC Attribution | 12.523 | 1.8 MB | `assets/ulke/cin/type-99/` |
+
+### Bilinmesi gerekenler
+
+- **Aynı yapımcıdan, aynı tarzda:** F-35, F-22 ve SU-57 (S1Priv); KAAN ve J-35 (hrd4588).
+- **Hareketli parçalar:** F-35'te iniş takımı ve gaz animasyonu, F-22'de iniş takımı ve silah kapağı animasyonu var.
+- **F-16 (iedalton)** dokusuz, düz renkli malzemeyle boyalı; ötekilerden sade görünür.
+- **Su-35** dokusu küçük (256 px).
+- **Type 99 tankının kulesi gövdeyle aynı parçada.**
+- **J-20 (Void.com)** açıklamasız yüklenmiş; kopya işareti yok ama yapımcısı hakkında bilgi de yok.
+- **Bayraktar TB2:** asıl yapımcı TheDevilsEye'ın modeli alındı. 42manako, Hirohito10020 ve teacherap123'ün aynı üçgen sayılı (9.300) kopyaları alınmadı.
+- **Bulunamayan ya da elenen:** Patriot (iki aday Battlefield'dan kopya), HQ-9 ve J-7 ("not my model"), S-400, Altay tankı, Hisar ve Siper (lisansı uygun model yok). Rusya için T-90M ve Pantsir adayları dokusuz beyaz olduğu için alınmadı.
+
