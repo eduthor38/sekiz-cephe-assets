@@ -42,7 +42,7 @@ assets/extra/tank/heavy-tank-rts/          heavy_tank00.glb ("chassis" ve "turre
 
 ## Bölüm 2: Gerçekçi modeller (Sketchfab, CC BY 4.0)
 
-Arama ölçütleri: gerçekçi dokulu, "game ready / low poly"; araç ≤15.000, bina ve çevre ≤25.000, piyade ≤10.000 üçgen. Hepsi Sketchfab'ın kendi GLB çıktısı (dokular içine gömülü, en büyüğü 1024 px). Her klasörde `model.glb` ve modelin adı, yapımcısı, bağlantısı, lisansı ve üçgen sayısını taşıyan `meta.json` durur. **NonCommercial, NoDerivatives, ShareAlike ya da Editorial lisanslı model yoktur;** 33 modelin hepsi indirme anında Sketchfab API'sinden lisansı yeniden okunarak CC BY olduğu doğrulandı. Oyun dosyasından kopyalandığı anlaşılan modeller (PUBG, Halo, Twisted Metal, War Thunder vb.) lisansı CC BY yazsa da alınmadı.
+Arama ölçütleri: gerçekçi dokulu, "game ready / low poly"; araç ≤15.000, bina ve çevre ≤25.000, piyade ≤10.000 üçgen. Hepsi Sketchfab'ın kendi GLB çıktısı (dokular içine gömülü, en büyüğü 1024 px). Her klasörde `model.glb` ve modelin adı, yapımcısı, bağlantısı, lisansı ve üçgen sayısını taşıyan `meta.json` durur. **NonCommercial, NoDerivatives, ShareAlike ya da Editorial lisanslı model yoktur;** 33 modelin hepsi indirme anında Sketchfab API'sinden lisansı yeniden okunarak CC BY olduğu doğrulandı. Oyun dosyasından kopyalandığı anlaşılan modeller (PUBG, Halo, Twisted Metal, War Thunder vb.) lisansı CC BY yazsa da alınmadı. Her modelin Sketchfab açıklaması ve etiketleri ayrıca okundu: "ripped", "not my model" gibi ifade taşıyan iki model (42manako'nun M978 HEMTT ve AV-8B Harrier II modelleri) çıkarıldı, yerlerine Ural 4320 ve SU-57 kondu.
 
 | Birim | Model | Yapımcı | Lisans | Üçgen | Boyut | Klasör |
 |---|---|---|---|---|---|---|
@@ -54,8 +54,8 @@ Arama ölçütleri: gerçekçi dokulu, "game ready / low poly"; araç ≤15.000,
 | Kum · Çakal (taretli kamyonet) | [Cybertruck civil war](https://sketchfab.com/3d-models/cybertruck-civil-war-35c041fb856341f2bf05cf6cefbe95f7) | pasquill | CC Attribution | 11.748 | 9.3 MB | `assets/fab/kum/cakal/` |
 | Kum · Kum Roketi | [Shaanxi SX2190 Missile Launcher](https://sketchfab.com/3d-models/shaanxi-sx2190-missile-launcher-a3cb343f3bf8486c8a0482df5b753c38) | Muhamad Mirza Arrafi | CC Attribution | 11.008 | 2.6 MB | `assets/fab/kum/kum-roketi/` |
 | Kum · Rüzgar (hızlı keşif) | [Post-Apocalyptic Pobeda (sub 10k triangles)](https://sketchfab.com/3d-models/post-apocalyptic-pobeda-sub-10k-triangles-9985b2fa9e634ecbba5210ceaab592d6) | Jorma Rysky | CC Attribution | 8.610 | 2.6 MB | `assets/fab/kum/ruzgar/` |
-| Kum · Talan Kamyonu (toplayıcı) | [M978 HEMTT](https://sketchfab.com/3d-models/m978-hemtt-d1a986c5d7f34d9eb027e612502c4874) | 42manako | CC Attribution | 8.477 | 3.9 MB | `assets/fab/kum/talan/` |
-| Kum · Akbaba (uçak) | [AV-8B Harrier II](https://sketchfab.com/3d-models/av-8b-harrier-ii-8482e199f18b44f3bede5a5806aa1cb1) | 42manako | CC Attribution | 9.705 | 1.8 MB | `assets/fab/kum/akbaba/` |
+| Kum · Talan Kamyonu (toplayıcı) | [Ural 4320](https://sketchfab.com/3d-models/ural-4320-f953c51a5dbc4a15949f4dcc0905c4e8) | Brout | CC Attribution | 8.492 | 1.9 MB | `assets/fab/kum/talan/` |
+| Kum · Akbaba (uçak) | [Low poly SU-57](https://sketchfab.com/3d-models/low-poly-su-57-b9031bc2e94947b18812ce0eca6b8345) | SIpriv | CC Attribution | 5.918 | 0.5 MB | `assets/fab/kum/akbaba/` |
 | Bina · Sığınak | [Sci-fi Bunker](https://sketchfab.com/3d-models/sci-fi-bunker-2567a460d6cc475fa679e877c78f05d3) | gregwagner | CC Attribution | 17.556 | 13.2 MB | `assets/fab/bina/siginak/` |
 | Bina · Hangar (kapıları animasyonlu) | [Military Style Building (with animations)](https://sketchfab.com/3d-models/military-style-building-with-animations-1671685e1dd94b6e9216ead632f08f6e) | TampaJoey | CC Attribution | 16.796 | 40.6 MB | `assets/fab/bina/hangar/` |
 | Bina · Modüler üs parçaları | [Military Buildings. Modular Kit Low poly](https://sketchfab.com/3d-models/military-buildings-modular-kit-low-poly-49638018cf5e414a995bd8559ab3d8a4) | Free Models. | CC Attribution | 13.546 | 4.9 MB | `assets/fab/bina/moduler-us/` |
@@ -87,5 +87,6 @@ Arama ölçütleri: gerçekçi dokulu, "game ready / low poly"; araç ≤15.000,
 - **Piyade:** Mixamo, Adobe koşulları ham dosyanın herkese açık depoda paylaşılmasına izin vermediği için kullanılmadı. Yerine CC BY animasyonlu üç asker alındı. Fütüristik askerde `Idle`, `Rifle_run`, `Rifle_stand`, `Rifle_crouch`, `Crouch`, `Run`, `Walk` var; **ateş etme ve ölme animasyonu hiçbirinde yok.** Kadın asker bulunamadı.
 - **Bulunamayan:** petrol kulesi (tek aday CC BY-SA, alınmadı).
 - **Kurt (Humvee)** tek renk paletli küçük bir doku kullanıyor (64 px); ötekilerden daha düz görünür.
+- **Kum Roketi (Shaanxi SX2190)** yapımcısının etiketine göre yapay zekâ yardımıyla üretilmiş ("createdwithai"). Lisans CC BY; ileride elle yapılmış bir modelle değiştirilebilir.
 - **Fab** modelleri alınmadı: Fab Standard License ham dosyanın herkese açık depoda paylaşılmasını yasaklıyor.
 
