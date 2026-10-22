@@ -121,13 +121,12 @@ Gerçek ülkelerin silahları için ayrı klasör: `assets/ulke/<ülke>/<model>/
 
 ## Bölüm 4: Ek binalar (Sketchfab, CC BY 4.0)
 
-Askerî, sanayi, çöl ve Orta Doğu, harabe ve şehir binaları: `assets/bina/<ad>/`. Hepsinin açıklaması kopya ve yapay zekâ işaretine karşı tarandı. Bazıları 25.000 üçgen sınırını aşıyor (helikopter pisti, şehir harabesi, çöl kasabası, modüler sanayi, fabrika kiti); oyunda kullanmadan önce sadeleştirilmeli.
+Askerî, sanayi, çöl ve Orta Doğu, harabe ve şehir binaları: `assets/bina/<ad>/`. Hepsinin açıklaması kopya, yapay zekâ ve üçüncü taraf doku işaretine karşı tarandı. Bazıları 25.000 üçgeni aşıyor (helikopter pisti, şehir harabesi, çöl kasabası, modüler sanayi, fabrika kiti); oyunda kullanmadan önce sadeleştirilmeli.
 
 | Birim | Model | Yapımcı | Lisans | Üçgen | Boyut | Klasör |
 |---|---|---|---|---|---|---|
 | Ahsap ev | [Old \| House \| Wooden \| Enterable \| Rusty](https://sketchfab.com/3d-models/old-house-wooden-enterable-rusty-7f496b3002d24341a618408cb8221e8c) | YadroGames | CC Attribution | 24.246 | 23.6 MB | `assets/bina/ahsap-ev/` |
 | Askeri set | [Military Set 01(LowPoly)](https://sketchfab.com/3d-models/military-set-01lowpoly-94b71a3bb3514fb991eccc66b714769f) | numaan.k99 | CC Attribution | 26.626 | 1.6 MB | `assets/bina/askeri-set/` |
-| Asya blok | [LOW POLY - ASIAN TOWER BLOCK](https://sketchfab.com/3d-models/low-poly-asian-tower-block-694adf5094fa41f99a245ed822293f47) | Colin.Greenall | CC Attribution | 3.148 | 2.7 MB | `assets/bina/asya-blok/` |
 | Bes katli bina | [5 storey residential building](https://sketchfab.com/3d-models/5-storey-residential-building-3468ccfd9e35495fb377f7c6d67518ae) | bean(alwayshasbean) | CC Attribution | 518 | 4.2 MB | `assets/bina/bes-katli-bina/` |
 | Col binasi | [Low poly desert builing](https://sketchfab.com/3d-models/low-poly-desert-builing-b3179b5b68264806b85441eec1dd8da4) | spicybamer | CC Attribution | 5.040 | 2.0 MB | `assets/bina/col-binasi/` |
 | Col citleri | [Fences \| Concretes \| Metal \| Desert \| Old \| Pack](https://sketchfab.com/3d-models/fences-concretes-metal-desert-old-pack-0cbf546419cf499cbabfee3af0916215) | YadroGames | CC Attribution | 2.476 | 16.2 MB | `assets/bina/col-citleri/` |
@@ -159,13 +158,10 @@ Askerî, sanayi, çöl ve Orta Doğu, harabe ve şehir binaları: `assets/bina/<
 | Pasli tank | [Rusted Tank storage](https://sketchfab.com/3d-models/rusted-tank-storage-57be2eaf4d6b4d2980bcee4ccb35f780) | Mkc | CC Attribution | 5.769 | 3.6 MB | `assets/bina/pasli-tank/` |
 | Psx apartman | [PSX - Apartment](https://sketchfab.com/3d-models/psx-apartment-60b98974f45745c99e3a3d6843db2d8c) | Kasugay𓅂 | CC Attribution | 340 | 5.1 MB | `assets/bina/psx-apartman/` |
 | Rts askeri bina | [RTS Military Building 1](https://sketchfab.com/3d-models/rts-military-building-1-4925be311dbb4d66b636ff40b235b047) | Sabri Ayeş | CC Attribution | 3.030 | 1.7 MB | `assets/bina/rts-askeri-bina/` |
-| Sanayi binasi | [industrial building](https://sketchfab.com/3d-models/industrial-building-770acf6b0da74af397f748d95141f8be) | spicybamer | CC Attribution | 2.494 | 5.0 MB | `assets/bina/sanayi-binasi/` |
 | Sanayi seti | [Industrial Buildings Set - Low poly models](https://sketchfab.com/3d-models/industrial-buildings-set-low-poly-models-e0b0d0342be24e6c923319991a2a4d3d) | Daniel Zhabotinsky | CC Attribution | 30.627 | 11.2 MB | `assets/bina/sanayi-seti/` |
-| Scifi platform | [Top Down Scifi Industrial platforms](https://sketchfab.com/3d-models/top-down-scifi-industrial-platforms-86245425f3d0468eb70456528b399f90) | R-LAB | CC Attribution | 39.282 | 11.0 MB | `assets/bina/scifi-platform/` |
 | Sehir harabesi | [City Ruins Environment](https://sketchfab.com/3d-models/city-ruins-environment-0d32be87779243749417ec783fb3ef60) | falk lochmann | CC Attribution | 55.992 | 15.8 MB | `assets/bina/sehir-harabesi/` |
 | Siginak cadiri | [Simple Shelter - Animated](https://sketchfab.com/3d-models/simple-shelter-animated-934f060fd42d4073995ac3ae69a12876) | Berk Gedik | CC Attribution | 5.906 | 6.7 MB | `assets/bina/siginak-cadiri/` |
 | Sogutma kuleli fabrika | [Factory Low-Poly](https://sketchfab.com/3d-models/factory-low-poly-7d3bc4d7ce6d48d9986a664d48f3cca1) | KIFIR | CC Attribution | 6.790 | 12.5 MB | `assets/bina/sogutma-kuleli-fabrika/` |
-| Sovyet apartman | [LOW POLY - SOVIET  APARTMENT BUILDING 8K](https://sketchfab.com/3d-models/low-poly-soviet-apartment-building-8k-05229ac1d1f94e6c8cacaad91110c602) | Colin.Greenall | CC Attribution | 10.392 | 3.1 MB | `assets/bina/sovyet-apartman/` |
 | Sovyet panel ev | [Soviet panel house built in the 1970s](https://sketchfab.com/3d-models/soviet-panel-house-built-in-the-1970s-94996e8cf4a8452d91ec1e206b5b4137) | Unka II | CC Attribution | 10.068 | 2.5 MB | `assets/bina/sovyet-panel-ev/` |
 | Su kulesi | [water tower](https://sketchfab.com/3d-models/water-tower-1c2f86dc8f794c85a91706d401d104db) | Lora | CC Attribution | 756 | 4.6 MB | `assets/bina/su-kulesi/` |
 | Tel orgu | [Chain link fence pack (low poly game ready)](https://sketchfab.com/3d-models/chain-link-fence-pack-low-poly-game-ready-777e50cd6e5d4db99d70bf7b20370f7a) | TampaJoey | CC Attribution | 17.554 | 10.9 MB | `assets/bina/tel-orgu/` |
@@ -175,14 +171,67 @@ Askerî, sanayi, çöl ve Orta Doğu, harabe ve şehir binaları: `assets/bina/<
 | Uretim tesisi | [Manufacturing Plant](https://sketchfab.com/3d-models/manufacturing-plant-b35a623dd21449a0917a047135aebc45) | anaroeto | CC Attribution | 1.907 | 5.2 MB | `assets/bina/uretim-tesisi/` |
 | Yirmi iki bina paketi | [Pack - Low Poly - 22 Building [ Interior ]](https://sketchfab.com/3d-models/pack-low-poly-22-building-interior-86c688c132d14edc8a2f4d105578b7ad) | Islide | CC Attribution | 25.847 | 2.0 MB | `assets/bina/yirmi-iki-bina-paketi/` |
 
-## Bölüm 5: Kısıtlı lisanslı modeller — SATIŞTAN ÖNCE DEĞİŞTİRİLMELİ
+## Bölüm 5: Bilim kurgu binaları (Sketchfab, CC BY 4.0)
 
-`assets/kisitli/<ad>/` altındakiler **NonCommercial (NC: ticari kullanım yasak)** ya da **ShareAlike (SA: değiştirilen hâli aynı lisansla paylaşılmalı)** lisanslıdır. Deneme ve prototip için kullanılabilir. Oyun satılmadan önce ya yerine CC0/CC BY bir modelle değiştirilmeli ya da yapımcısından yazılı izin alınmalı.
+`assets/bina/scifi-*`, `ana-kapi`, `cyberpunk-bina`.
 
 | Birim | Model | Yapımcı | Lisans | Üçgen | Boyut | Klasör |
 |---|---|---|---|---|---|---|
+| Ana kapi | [Main gate](https://sketchfab.com/3d-models/main-gate-2a52366570204019b848f32baf9ac665) | local.yany | CC Attribution | 56.604 | 6.2 MB | `assets/bina/ana-kapi/` |
+| Cyberpunk bina | [Cyberpunk Building](https://sketchfab.com/3d-models/cyberpunk-building-e79154e588bd4a6c84fa07e9a53f3ff9) | igor.tesV | CC Attribution | 11.383 | 10.6 MB | `assets/bina/cyberpunk-bina/` |
+| Scifi alfa kule | [ALPHA TOWER](https://sketchfab.com/3d-models/alpha-tower-4419eca89c2a43bd9a9f7d662f6b6918) | Portal.Studio | CC Attribution | 22.068 | 8.1 MB | `assets/bina/scifi-alfa-kule/` |
+| Scifi bina 1 nenkea | [Sci-Fi Building 1](https://sketchfab.com/3d-models/sci-fi-building-1-da4d7f4c35be49baa287af0782c2171b) | 𝗻𝗲𝗻𝗸𝗲𝗮 | CC Attribution | 35.792 | 15.4 MB | `assets/bina/scifi-bina-1-nenkea/` |
+| Scifi bina 11 | [Sci-fi Building 11](https://sketchfab.com/3d-models/sci-fi-building-11-d3029779c7e54ee6afa3890b42a32098) | Scarecrow_original | CC Attribution | 4.328 | 2.4 MB | `assets/bina/scifi-bina-11/` |
+| Scifi bina 2 | [Sci-fi Building 2](https://sketchfab.com/3d-models/sci-fi-building-2-3559c3a0038f4c5f94335707ccff8217) | Scarecrow_original | CC Attribution | 25.854 | 4.0 MB | `assets/bina/scifi-bina-2/` |
+| Scifi bina 2 nenkea | [Sci- Fi / Future Building 2: Simple Dome](https://sketchfab.com/3d-models/sci-fi-future-building-2-simple-dome-d885fdb25ed846779fc711917fbeeed2) | 𝗻𝗲𝗻𝗸𝗲𝗮 | CC Attribution | 47.880 | 3.7 MB | `assets/bina/scifi-bina-2-nenkea/` |
+| Scifi bina jl | [Sc-fi Building](https://sketchfab.com/3d-models/sc-fi-building-bb76aebb7dd947c8a4edf02ed12376ce) | Jonathan | CC Attribution | 1.462 | 3.8 MB | `assets/bina/scifi-bina-jl/` |
+| Scifi bina sc | [Sci-fi Building 2](https://sketchfab.com/3d-models/sci-fi-building-2-3559c3a0038f4c5f94335707ccff8217) | Scarecrow_original | CC Attribution | 25.854 | 4.0 MB | `assets/bina/scifi-bina-sc/` |
+| Scifi futuristik bina jl | [Futuristic Building](https://sketchfab.com/3d-models/futuristic-building-555daf778aa245158e4b24214ccc1dbb) | Jonathan | CC Attribution | 1.595 | 3.4 MB | `assets/bina/scifi-futuristik-bina-jl/` |
+| Scifi giris | [SCI-FI ENTRANCE APOCALYPSE](https://sketchfab.com/3d-models/sci-fi-entrance-apocalypse-f3b606485ddb4066b16f31c9a969250d) | Adriancgmask | CC Attribution | 7.523 | 9.6 MB | `assets/bina/scifi-giris/` |
+| Scifi jenerator | [Sci-fi Generator](https://sketchfab.com/3d-models/sci-fi-generator-685fc34284574996b09ae0f826367e90) | Eh | CC Attribution | 14.628 | 1.1 MB | `assets/bina/scifi-jenerator/` |
+| Scifi kule | [Sci-Fi Tower](https://sketchfab.com/3d-models/sci-fi-tower-c271103cd2f84ed3992baeda6416bbb0) | Jonathan | CC Attribution | 3.389 | 3.6 MB | `assets/bina/scifi-kule/` |
+| Scifi platform | [Top Down Scifi Industrial platforms](https://sketchfab.com/3d-models/top-down-scifi-industrial-platforms-86245425f3d0468eb70456528b399f90) | R-LAB | CC Attribution | 39.282 | 11.0 MB | `assets/bina/scifi-platform/` |
+
+## Bölüm 6: Harita parçaları (Sketchfab, CC BY 4.0)
+
+`assets/bina/harita-*`: çöl kalesi (kule, zemin, yol), Mısır haritası, kanyon, karlı dağ, gerçek arazi taramaları (Mars Olympus Dağı, Mars Aram Chaos, Uluru, Moğolistan köyü), ağaç, bitki, çimen, beton duvar, şehir paketi. Hazır strateji haritası yok; harita bu parçalarla ve zemin dokularıyla kurulacak.
+
+| Birim | Model | Yapımcı | Lisans | Üçgen | Boyut | Klasör |
+|---|---|---|---|---|---|---|
+| Harita agaclar | [Low poly trees. flowers and grass](https://sketchfab.com/3d-models/low-poly-trees-flowers-and-grass-442904f26b87407d98871b50b49c4169) | MMC Works | CC Attribution | 5.496 | 20.1 MB | `assets/bina/harita-agaclar/` |
+| Harita beton duvar | [Dirty leaking concrete wall](https://sketchfab.com/3d-models/dirty-leaking-concrete-wall-893893fc88104dd8a3bd66333411acd2) | Оrрндп ЯТG | CC Attribution | 11.992 | 1.4 MB | `assets/bina/harita-beton-duvar/` |
+| Harita bitkiler | [Shapespark low poly exterior plants kit](https://sketchfab.com/3d-models/shapespark-low-poly-exterior-plants-kit-de9e79fc07b748d1a6ac055b49ee5c67) | Shapespark | CC Attribution | 7.665 | 30.1 MB | `assets/bina/harita-bitkiler/` |
+| Harita cimen | [Realistics grass 06](https://sketchfab.com/3d-models/realistics-grass-06-b5956b7d4d1f4ff6ae1dd1320dab0d12) | POLYSCAN | CC Attribution | 6.552 | 0.7 MB | `assets/bina/harita-cimen/` |
+| Harita col kalesi kuleler | [Desert_ Fortress_ Towers](https://sketchfab.com/3d-models/desert--fortress--towers-368813c939494eb0b0d63fa634b03589) | Nicolai Kilstrup | CC Attribution | 51.196 | 9.2 MB | `assets/bina/harita-col-kalesi-kuleler/` |
+| Harita col kalesi yollar | [Desert Fortress Walkways](https://sketchfab.com/3d-models/desert-fortress-walkways-63ea28dc696a414a979cf3a1e3213ec3) | Nicolai Kilstrup | CC Attribution | 47.156 | 31.7 MB | `assets/bina/harita-col-kalesi-yollar/` |
+| Harita col kalesi zemin | [Desert Fortress Floor](https://sketchfab.com/3d-models/desert-fortress-floor-83d7c8a82fda43bd911a2e1d06d24adb) | Nicolai Kilstrup | CC Attribution | 36.578 | 29.8 MB | `assets/bina/harita-col-kalesi-zemin/` |
+| Harita kanyon | [Shift Happens - Canyon Diorama](https://sketchfab.com/3d-models/shift-happens-canyon-diorama-ffd36dfbfda8432d97388988883f6295) | Klonk Games | CC Attribution | 23.179 | 12.9 MB | `assets/bina/harita-kanyon/` |
+| Harita karli dag | [Snow Mountain](https://sketchfab.com/3d-models/snow-mountain-e84a8e5edb2040c591be36350e2536f5) | hkp941111 | CC Attribution | 13.045 | 4.0 MB | `assets/bina/harita-karli-dag/` |
+| Harita mars aram chaos | [Mars - Aram Chaos region](https://sketchfab.com/3d-models/mars-aram-chaos-region-5c9b99de0405465f81ff0ba244ef69e2) | SebastianSosnowski | CC Attribution | 37.962 | 5.1 MB | `assets/bina/harita-mars-aram-chaos/` |
+| Harita mars dagi | [Mars - Olympus Mons](https://sketchfab.com/3d-models/mars-olympus-mons-53679864b41a43b0ae0459ce99d6adf0) | SebastianSosnowski | CC Attribution | 10.662 | 4.2 MB | `assets/bina/harita-mars-dagi/` |
+| Harita misir | [Environment Pack - Egypt Map](https://sketchfab.com/3d-models/environment-pack-egypt-map-3049b31b9aba4f6d94345573be670aca) | PolyOne Studio | CC Attribution | 23.331 | 7.7 MB | `assets/bina/harita-misir/` |
+| Harita mogol koyu | [Czojr - isolated village in Mongolia](https://sketchfab.com/3d-models/czojr-isolated-village-in-mongolia-09eb4b1665014c9d97add5970bb1f5b9) | SebastianSosnowski | CC Attribution | 2.578 | 3.4 MB | `assets/bina/harita-mogol-koyu/` |
+| Harita sehir paketi | [City pack 7](https://sketchfab.com/3d-models/city-pack-7-6550e37439814c348e2c884aa740ca3c) | Pasha | CC Attribution | 31.124 | 14.2 MB | `assets/bina/harita-sehir-paketi/` |
+| Harita uluru | [Uluru - Australia`s sacred mountain](https://sketchfab.com/3d-models/uluru-australias-sacred-mountain-045af620b492487d84a31b745d5a9cfd) | SebastianSosnowski | CC Attribution | 9.904 | 4.0 MB | `assets/bina/harita-uluru/` |
+
+## Bölüm 7: Kısıtlı lisanslı modeller — SATIŞTAN ÖNCE DEĞİŞTİRİLMELİ
+
+`assets/kisitli/<ad>/` altındakiler **NonCommercial (NC: ticari kullanım yasak)**, **ShareAlike (SA: değiştirilen hâli aynı lisansla paylaşılmalı)** lisanslı ya da **Textures.com dokulu** (üç bina: Asya apartmanı, Sovyet apartmanı, sanayi binası; Textures.com dokuların ham paylaşımını kısıtlar). Deneme ve prototip için kullanılabilir; oyun satılmadan önce yerine CC0/CC BY model konmalı ya da yapımcıdan yazılı izin alınmalı.
+
+Taramada elenenler: "SkyBox Blue Desert" (yapay zekâ üretimi), "City map (not a scan)" (kopya), "Military Blockpost S.T.A.L.K.E.R", "Buildings from Trainz Simulator", Star Wars adlı modeller.
+
+| Birim | Model | Yapımcı | Lisans | Üçgen | Boyut | Klasör |
+|---|---|---|---|---|---|---|
+| Asya blok | [LOW POLY - ASIAN TOWER BLOCK](https://sketchfab.com/3d-models/low-poly-asian-tower-block-694adf5094fa41f99a245ed822293f47) | Colin.Greenall | CC Attribution | 3.148 | 2.7 MB | `assets/kisitli/asya-blok/` |
 | Corak dukkanlar | [Wasteland Stores](https://sketchfab.com/3d-models/wasteland-stores-7b66bc988ea04c058008c3a774622a44) | Renafox | CC Attribution-NonCommercial | 712 | 8.8 MB | `assets/kisitli/corak-dukkanlar/` |
 | Fakir col evi | [Poor Desert House](https://sketchfab.com/3d-models/poor-desert-house-64310fbd9b1640cdbf04f5f12ad58ba2) | Fjordreig | CC Attribution-NonCommercial | 2.097 | 8.7 MB | `assets/kisitli/fakir-col-evi/` |
+| Harita arka plan arazi | [Sketch Background Terrain](https://sketchfab.com/3d-models/sketch-background-terrain-1e84bfc2489b433d951478f79fc7952f) | Peter Leban | CC Attribution-NonCommercial | 42.160 | 4.4 MB | `assets/kisitli/harita-arka-plan-arazi/` |
 | Japon askeri us | [Japan Self-Defense Forces Military Base kit](https://sketchfab.com/3d-models/japan-self-defense-forces-military-base-kit-77da87c27b784fa1951f187642b4d3fd) | Plevako | CC Attribution-ShareAlike | 50.085 | 13.2 MB | `assets/kisitli/japon-askeri-us/` |
 | Mech hangar | [Mech Hangar](https://sketchfab.com/3d-models/mech-hangar-dd0a83c82a1e4a85b0770a02eb4073f1) | Willie Garnarbles | CC Attribution-NonCommercial | 3.244 | 0.5 MB | `assets/kisitli/mech-hangar/` |
+| Sanayi binasi | [industrial building](https://sketchfab.com/3d-models/industrial-building-770acf6b0da74af397f748d95141f8be) | spicybamer | CC Attribution | 2.494 | 5.0 MB | `assets/kisitli/sanayi-binasi/` |
+| Scifi futuristik bina | [Futuristic Building](https://sketchfab.com/3d-models/futuristic-building-e73f9bb9981d469c8a8ccdc1f168faad) | 3DHaupt | CC Attribution-NonCommercial | 28.060 | 9.1 MB | `assets/kisitli/scifi-futuristik-bina/` |
+| Scifi gunes kulesi | [Sci-Fi Solar Power Tower (Free-Download)](https://sketchfab.com/3d-models/sci-fi-solar-power-tower-free-download-0c4a96b5e8474eb38097e5305392a137) | 3DHaupt | CC Attribution-NonCommercial-ShareAlike | 16.556 | 6.9 MB | `assets/kisitli/scifi-gunes-kulesi/` |
+| Scifi kule ev | [Tower House Design](https://sketchfab.com/3d-models/tower-house-design-a972a15421a942429f1279824e00c042) | 3DHaupt | CC Attribution-NonCommercial | 16.492 | 18.0 MB | `assets/kisitli/scifi-kule-ev/` |
+| Scifi stilize binalar | [Stylized Low Poly Sci-Fi Buildings](https://sketchfab.com/3d-models/stylized-low-poly-sci-fi-buildings-701381fef32444e79ad804315e563049) | Robin Butler | CC Attribution-NonCommercial | 29.590 | 1.6 MB | `assets/kisitli/scifi-stilize-binalar/` |
+| Sovyet apartman | [LOW POLY - SOVIET  APARTMENT BUILDING 8K](https://sketchfab.com/3d-models/low-poly-soviet-apartment-building-8k-05229ac1d1f94e6c8cacaad91110c602) | Colin.Greenall | CC Attribution | 10.392 | 3.1 MB | `assets/kisitli/sovyet-apartman/` |
 | Yikik bina | [Destroyed building. study](https://sketchfab.com/3d-models/destroyed-building-study-8a95ab9548314c66bb0bf7c2191da80c) | samuel.brunner | CC Attribution-NonCommercial | 24.114 | 6.5 MB | `assets/kisitli/yikik-bina/` |

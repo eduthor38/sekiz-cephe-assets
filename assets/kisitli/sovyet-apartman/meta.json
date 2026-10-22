@@ -1,5 +1,5 @@
 {
- "klasor": "bina/sovyet-apartman",
+ "klasor": "kisitli/sovyet-apartman",
  "ad": "LOW POLY - SOVIET  APARTMENT BUILDING 8K",
  "yazar": "Colin.Greenall",
  "yazar_url": "https://sketchfab.com/Colin.Greenall",
@@ -9,5 +9,6 @@
  "ucgen": 10392,
  "kose": 5278,
  "animasyon": 0,
- "bicim": "GLB"
+ "bicim": "GLB",
+ "not": "Dokular Textures.com kaynakli (ham dosya paylasimi kisitli)"
 }

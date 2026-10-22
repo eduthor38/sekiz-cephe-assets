@@ -1,5 +1,5 @@
 {
- "klasor": "bina/sanayi-binasi",
+ "klasor": "kisitli/sanayi-binasi",
  "ad": "industrial building",
  "yazar": "spicybamer",
  "yazar_url": "https://sketchfab.com/spicybamer",
@@ -9,5 +9,6 @@
  "ucgen": 2494,
  "kose": 1384,
  "animasyon": 0,
- "bicim": "GLB"
+ "bicim": "GLB",
+ "not": "Dokular Textures.com kaynakli (ham dosya paylasimi kisitli)"
 }
