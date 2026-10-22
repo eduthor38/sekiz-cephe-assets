@@ -119,3 +119,70 @@ Gerçek ülkelerin silahları için ayrı klasör: `assets/ulke/<ülke>/<model>/
 - **Bayraktar TB2:** asıl yapımcı TheDevilsEye'ın modeli alındı. 42manako, Hirohito10020 ve teacherap123'ün aynı üçgen sayılı (9.300) kopyaları alınmadı.
 - **Bulunamayan ya da elenen:** Patriot ve S-300/S-400 (Sketchfab'daki adaylar War Thunder'dan kopya ya da Battlefield'dan; CGTrader, TurboSquid, RenderHub ve Superhive'dakiler ücretli ya da "Editorial" lisanslı), HQ-9 ve J-7 ("not my model"), Altay tankı, Hisar ve Siper (lisansı uygun model yok). Rusya için T-90M ve Pantsir adayları dokusuz beyaz olduğu için alınmadı; hava savunması olarak 1S91 radar aracı kondu.
 
+## Bölüm 4: Ek binalar (Sketchfab, CC BY 4.0)
+
+Askerî, sanayi, çöl ve Orta Doğu, harabe ve şehir binaları: `assets/bina/<ad>/`. Hepsinin açıklaması kopya ve yapay zekâ işaretine karşı tarandı. Bazıları 25.000 üçgen sınırını aşıyor (helikopter pisti, şehir harabesi, çöl kasabası, modüler sanayi, fabrika kiti); oyunda kullanmadan önce sadeleştirilmeli.
+
+| Birim | Model | Yapımcı | Lisans | Üçgen | Boyut | Klasör |
+|---|---|---|---|---|---|---|
+| Ahsap ev | [Old \| House \| Wooden \| Enterable \| Rusty](https://sketchfab.com/3d-models/old-house-wooden-enterable-rusty-7f496b3002d24341a618408cb8221e8c) | YadroGames | CC Attribution | 24.246 | 23.6 MB | `assets/bina/ahsap-ev/` |
+| Askeri set | [Military Set 01(LowPoly)](https://sketchfab.com/3d-models/military-set-01lowpoly-94b71a3bb3514fb991eccc66b714769f) | numaan.k99 | CC Attribution | 26.626 | 1.6 MB | `assets/bina/askeri-set/` |
+| Asya blok | [LOW POLY - ASIAN TOWER BLOCK](https://sketchfab.com/3d-models/low-poly-asian-tower-block-694adf5094fa41f99a245ed822293f47) | Colin.Greenall | CC Attribution | 3.148 | 2.7 MB | `assets/bina/asya-blok/` |
+| Bes katli bina | [5 storey residential building](https://sketchfab.com/3d-models/5-storey-residential-building-3468ccfd9e35495fb377f7c6d67518ae) | bean(alwayshasbean) | CC Attribution | 518 | 4.2 MB | `assets/bina/bes-katli-bina/` |
+| Col binasi | [Low poly desert builing](https://sketchfab.com/3d-models/low-poly-desert-builing-b3179b5b68264806b85441eec1dd8da4) | spicybamer | CC Attribution | 5.040 | 2.0 MB | `assets/bina/col-binasi/` |
+| Col citleri | [Fences \| Concretes \| Metal \| Desert \| Old \| Pack](https://sketchfab.com/3d-models/fences-concretes-metal-desert-old-pack-0cbf546419cf499cbabfee3af0916215) | YadroGames | CC Attribution | 2.476 | 16.2 MB | `assets/bina/col-citleri/` |
+| Col citleri 2 | [Low \| Fences \| Old \| Rusty \| Desert \| Pack](https://sketchfab.com/3d-models/low-fences-old-rusty-desert-pack-c196e6c907bb44c2ae733de5754e0d3f) | YadroGames | CC Attribution | 3.241 | 58.0 MB | `assets/bina/col-citleri-2/` |
+| Col evi | [Desert House 01](https://sketchfab.com/3d-models/desert-house-01-7649a03206864931a3c118ec14d8ac3c) | tori.cane | CC Attribution | 1.642 | 22.3 MB | `assets/bina/col-evi/` |
+| Col evleri | [Desert Houses](https://sketchfab.com/3d-models/desert-houses-86153c62aa684ab1a5e0caeaa0450ca2) | Gunnar Correa | CC Attribution | 1.568 | 13.9 MB | `assets/bina/col-evleri/` |
+| Col kasabasi | [Desert Town](https://sketchfab.com/3d-models/desert-town-f3a8c925486e45378aef99264f533cd7) | anthwolf | CC Attribution | 49.511 | 48.0 MB | `assets/bina/col-kasabasi/` |
+| Col kaya dag paketi | [Sand \| Rock \| Desert \| Mountain \| Pack](https://sketchfab.com/3d-models/sand-rock-desert-mountain-pack-cd6689e6b3034be897761225dd44fa59) | YadroGames | CC Attribution | 28.704 | 22.3 MB | `assets/bina/col-kaya-dag-paketi/` |
+| Col koyu | [low poly desert village](https://sketchfab.com/3d-models/low-poly-desert-village-2639191809c4426f8cc0a532ccf8506b) | cubemelongames | CC Attribution | 10.748 | 3.8 MB | `assets/bina/col-koyu/` |
+| Depo binasi | [Warehouse Building](https://sketchfab.com/3d-models/warehouse-building-08a4f422bc634033b8023d53beaf8242) | rajibkc | CC Attribution | 3.248 | 2.2 MB | `assets/bina/depo-binasi/` |
+| Depo binasi 2 | [Warehouse Building](https://sketchfab.com/3d-models/warehouse-building-0c37b0f92cb54e07a1e1c6c3df9f8439) | OmegaRedZA | CC Attribution | 946 | 4.1 MB | `assets/bina/depo-binasi-2/` |
+| Depolama tanklari | [Large Industrial Storage Tanks](https://sketchfab.com/3d-models/large-industrial-storage-tanks-bd3ac97071104b64bc388a155b64f79e) | Duane's Mind | CC Attribution | 9.811 | 11.3 MB | `assets/bina/depolama-tanklari/` |
+| Depolar | [Warehouses](https://sketchfab.com/3d-models/warehouses-e6e105d35b3f486292c42ffa52f363c0) | 99.Miles | CC Attribution | 1.930 | 1.5 MB | `assets/bina/depolar/` |
+| Eski baraka | [Worn Shed PBR Game-Ready](https://sketchfab.com/3d-models/worn-shed-pbr-game-ready-be6edd62e55a4f9a99da940fc164a5b9) | donnichols | CC Attribution | 2.086 | 13.9 MB | `assets/bina/eski-baraka/` |
+| Eski bina | [Old Building](https://sketchfab.com/3d-models/old-building-f72b3723f2a34b6691455947fef598d6) | YadroGames | CC Attribution | 503 | 3.0 MB | `assets/bina/eski-bina/` |
+| Fabrika | [Factory 3d model](https://sketchfab.com/3d-models/factory-3d-model-e723f4fe48ec4b9da52ec6e4a442286b) | Ramim Bhai | CC Attribution | 35.230 | 14.0 MB | `assets/bina/fabrika/` |
+| Fabrika modular | [Factory Modular kit](https://sketchfab.com/3d-models/factory-modular-kit-3213637ed81d41138c6746a13bf585b9) | Thomas_Crozelon | CC Attribution | 54.166 | 38.9 MB | `assets/bina/fabrika-modular/` |
+| Gecekondu | [Shanty \| House \| Building \| Enterable](https://sketchfab.com/3d-models/shanty-house-building-enterable-64f09376d1a44ffd8716d7cc5f28db9c) | YadroGames | CC Attribution | 2.700 | 4.6 MB | `assets/bina/gecekondu/` |
+| Gecekondu konak | [Shanty \| Mansion \| Wooden](https://sketchfab.com/3d-models/shanty-mansion-wooden-cf93dfd6da1640f08ebe051ba280426d) | YadroGames | CC Attribution | 5.150 | 11.2 MB | `assets/bina/gecekondu-konak/` |
+| Harabe bina | [Ruin Building](https://sketchfab.com/3d-models/ruin-building-184d70cc473540749206cc7d8f9917b8) | nermin | CC Attribution | 33.384 | 21.4 MB | `assets/bina/harabe-bina/` |
+| Helikopter pisti | [Heliport Helipad air base helicopter](https://sketchfab.com/3d-models/heliport-helipad-air-base-helicopter-5bc89e02a58b4ebca7404e5e35da2481) | Mehdi Shahsavan | CC Attribution | 56.678 | 23.2 MB | `assets/bina/helikopter-pisti/` |
+| Iletisim kulesi | [Telecommunication Tower Low-Poly Free](https://sketchfab.com/3d-models/telecommunication-tower-low-poly-free-39bee442b9aa4c3d8dc7674453cd78ad) | Nicholas-3D | CC Attribution | 8.042 | 5.3 MB | `assets/bina/iletisim-kulesi/` |
+| Kentsel cit | [Modular Urban Fence Pack (w/ graffiti textures)](https://sketchfab.com/3d-models/modular-urban-fence-pack-w-graffiti-textures-1cf3690327bd449881ba6857d8fe7caf) | TampaJoey | CC Attribution | 39.031 | 22.5 MB | `assets/bina/kentsel-cit/` |
+| Konteyner bina | [Building \| Container \| Metal](https://sketchfab.com/3d-models/building-container-metal-36380c606bae46848237e9bbe073fa3b) | YadroGames | CC Attribution | 920 | 1.4 MB | `assets/bina/konteyner-bina/` |
+| Modular gecekondu | [Modular Slums](https://sketchfab.com/3d-models/modular-slums-e2b6f532e1fe4f7280890971d78183f4) | AlexFerrart3D | CC Attribution | 17.328 | 4.3 MB | `assets/bina/modular-gecekondu/` |
+| Moduler sanayi | [Modular industrial building](https://sketchfab.com/3d-models/modular-industrial-building-4bb58f7548c7464ebdf41a51958f712a) | Niko_Forest1889 | CC Attribution | 55.026 | 13.1 MB | `assets/bina/moduler-sanayi/` |
+| Nobet kulesi | [Guard Tower [Free Asset]](https://sketchfab.com/3d-models/guard-tower-free-asset-963071f5fe404970a40b166bcee430b8) | Lex713 | CC Attribution | 2.268 | 4.2 MB | `assets/bina/nobet-kulesi/` |
+| Nobet kulesi 2 | [Watchtower](https://sketchfab.com/3d-models/watchtower-bda39e79dbfa4976b1791b6b1f58259c) | Mehdi Shahsavan | CC Attribution | 2.106 | 3.9 MB | `assets/bina/nobet-kulesi-2/` |
+| Pasli tank | [Rusted Tank storage](https://sketchfab.com/3d-models/rusted-tank-storage-57be2eaf4d6b4d2980bcee4ccb35f780) | Mkc | CC Attribution | 5.769 | 3.6 MB | `assets/bina/pasli-tank/` |
+| Psx apartman | [PSX - Apartment](https://sketchfab.com/3d-models/psx-apartment-60b98974f45745c99e3a3d6843db2d8c) | Kasugay𓅂 | CC Attribution | 340 | 5.1 MB | `assets/bina/psx-apartman/` |
+| Rts askeri bina | [RTS Military Building 1](https://sketchfab.com/3d-models/rts-military-building-1-4925be311dbb4d66b636ff40b235b047) | Sabri Ayeş | CC Attribution | 3.030 | 1.7 MB | `assets/bina/rts-askeri-bina/` |
+| Sanayi binasi | [industrial building](https://sketchfab.com/3d-models/industrial-building-770acf6b0da74af397f748d95141f8be) | spicybamer | CC Attribution | 2.494 | 5.0 MB | `assets/bina/sanayi-binasi/` |
+| Sanayi seti | [Industrial Buildings Set - Low poly models](https://sketchfab.com/3d-models/industrial-buildings-set-low-poly-models-e0b0d0342be24e6c923319991a2a4d3d) | Daniel Zhabotinsky | CC Attribution | 30.627 | 11.2 MB | `assets/bina/sanayi-seti/` |
+| Scifi platform | [Top Down Scifi Industrial platforms](https://sketchfab.com/3d-models/top-down-scifi-industrial-platforms-86245425f3d0468eb70456528b399f90) | R-LAB | CC Attribution | 39.282 | 11.0 MB | `assets/bina/scifi-platform/` |
+| Sehir harabesi | [City Ruins Environment](https://sketchfab.com/3d-models/city-ruins-environment-0d32be87779243749417ec783fb3ef60) | falk lochmann | CC Attribution | 55.992 | 15.8 MB | `assets/bina/sehir-harabesi/` |
+| Siginak cadiri | [Simple Shelter - Animated](https://sketchfab.com/3d-models/simple-shelter-animated-934f060fd42d4073995ac3ae69a12876) | Berk Gedik | CC Attribution | 5.906 | 6.7 MB | `assets/bina/siginak-cadiri/` |
+| Sogutma kuleli fabrika | [Factory Low-Poly](https://sketchfab.com/3d-models/factory-low-poly-7d3bc4d7ce6d48d9986a664d48f3cca1) | KIFIR | CC Attribution | 6.790 | 12.5 MB | `assets/bina/sogutma-kuleli-fabrika/` |
+| Sovyet apartman | [LOW POLY - SOVIET  APARTMENT BUILDING 8K](https://sketchfab.com/3d-models/low-poly-soviet-apartment-building-8k-05229ac1d1f94e6c8cacaad91110c602) | Colin.Greenall | CC Attribution | 10.392 | 3.1 MB | `assets/bina/sovyet-apartman/` |
+| Sovyet panel ev | [Soviet panel house built in the 1970s](https://sketchfab.com/3d-models/soviet-panel-house-built-in-the-1970s-94996e8cf4a8452d91ec1e206b5b4137) | Unka II | CC Attribution | 10.068 | 2.5 MB | `assets/bina/sovyet-panel-ev/` |
+| Su kulesi | [water tower](https://sketchfab.com/3d-models/water-tower-1c2f86dc8f794c85a91706d401d104db) | Lora | CC Attribution | 756 | 4.6 MB | `assets/bina/su-kulesi/` |
+| Tel orgu | [Chain link fence pack (low poly game ready)](https://sketchfab.com/3d-models/chain-link-fence-pack-low-poly-game-ready-777e50cd6e5d4db99d70bf7b20370f7a) | TampaJoey | CC Attribution | 17.554 | 10.9 MB | `assets/bina/tel-orgu/` |
+| Terk garaj | [Abandoned Garage Block Rusty Ruined Game-Ready](https://sketchfab.com/3d-models/abandoned-garage-block-rusty-ruined-game-ready-a1959927a98e4752bdb01b6e1f7f7d26) | olegolegperepelica | CC Attribution | 8.369 | 9.8 MB | `assets/bina/terk-garaj/` |
+| Uc depo | [Pack - Realistic - 3 Warehouse](https://sketchfab.com/3d-models/pack-realistic-3-warehouse-320c272513a94c0482dbb3c4e79d61f5) | Islide | CC Attribution | 1.302 | 0.3 MB | `assets/bina/uc-depo/` |
+| Ucak yakit tanki | [Rusty airbase fuel tank](https://sketchfab.com/3d-models/rusty-airbase-fuel-tank-5ac257aee23e47e0a0f91a4e07a40692) | LuddePudde | CC Attribution | 2.532 | 2.4 MB | `assets/bina/ucak-yakit-tanki/` |
+| Uretim tesisi | [Manufacturing Plant](https://sketchfab.com/3d-models/manufacturing-plant-b35a623dd21449a0917a047135aebc45) | anaroeto | CC Attribution | 1.907 | 5.2 MB | `assets/bina/uretim-tesisi/` |
+| Yirmi iki bina paketi | [Pack - Low Poly - 22 Building [ Interior ]](https://sketchfab.com/3d-models/pack-low-poly-22-building-interior-86c688c132d14edc8a2f4d105578b7ad) | Islide | CC Attribution | 25.847 | 2.0 MB | `assets/bina/yirmi-iki-bina-paketi/` |
+
+## Bölüm 5: Kısıtlı lisanslı modeller — SATIŞTAN ÖNCE DEĞİŞTİRİLMELİ
+
+`assets/kisitli/<ad>/` altındakiler **NonCommercial (NC: ticari kullanım yasak)** ya da **ShareAlike (SA: değiştirilen hâli aynı lisansla paylaşılmalı)** lisanslıdır. Deneme ve prototip için kullanılabilir. Oyun satılmadan önce ya yerine CC0/CC BY bir modelle değiştirilmeli ya da yapımcısından yazılı izin alınmalı.
+
+| Birim | Model | Yapımcı | Lisans | Üçgen | Boyut | Klasör |
+|---|---|---|---|---|---|---|
+| Corak dukkanlar | [Wasteland Stores](https://sketchfab.com/3d-models/wasteland-stores-7b66bc988ea04c058008c3a774622a44) | Renafox | CC Attribution-NonCommercial | 712 | 8.8 MB | `assets/kisitli/corak-dukkanlar/` |
+| Fakir col evi | [Poor Desert House](https://sketchfab.com/3d-models/poor-desert-house-64310fbd9b1640cdbf04f5f12ad58ba2) | Fjordreig | CC Attribution-NonCommercial | 2.097 | 8.7 MB | `assets/kisitli/fakir-col-evi/` |
+| Japon askeri us | [Japan Self-Defense Forces Military Base kit](https://sketchfab.com/3d-models/japan-self-defense-forces-military-base-kit-77da87c27b784fa1951f187642b4d3fd) | Plevako | CC Attribution-ShareAlike | 50.085 | 13.2 MB | `assets/kisitli/japon-askeri-us/` |
+| Mech hangar | [Mech Hangar](https://sketchfab.com/3d-models/mech-hangar-dd0a83c82a1e4a85b0770a02eb4073f1) | Willie Garnarbles | CC Attribution-NonCommercial | 3.244 | 0.5 MB | `assets/kisitli/mech-hangar/` |
+| Yikik bina | [Destroyed building. study](https://sketchfab.com/3d-models/destroyed-building-study-8a95ab9548314c66bb0bf7c2191da80c) | samuel.brunner | CC Attribution-NonCommercial | 24.114 | 6.5 MB | `assets/kisitli/yikik-bina/` |
