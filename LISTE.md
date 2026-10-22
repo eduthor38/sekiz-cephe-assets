@@ -102,6 +102,7 @@ Gerçek ülkelerin silahları için ayrı klasör: `assets/ulke/<ülke>/<model>/
 | ABD · F-22 | [Low poly F22 Raptor](https://sketchfab.com/3d-models/low-poly-f22-raptor-6a6014b7c88745fb94e7dfa1c015cc55) | SIpriv | CC Attribution | 7.786 | 0.6 MB | `assets/ulke/abd/f-22/` |
 | ABD · F-16 | [F-16 Fighter Jet](https://sketchfab.com/3d-models/f-16-fighter-jet-d84491f443384ee488593cc6f0f0839e) | iedalton | CC Attribution | 4.214 | 0.3 MB | `assets/ulke/abd/f-16/` |
 | Rusya · Su-35 | [Su35](https://sketchfab.com/3d-models/su35-8affd5d4f56f4d9190da55b4579bc46a) | _Muzaev | CC Attribution | 11.324 | 0.6 MB | `assets/ulke/rusya/su-35/` |
+| Rusya · Hava savunma radarı (1S91. Kub sistemi) | [1S91 “Straight Flush”Low Poly](https://sketchfab.com/3d-models/1s91-straight-flushlow-poly-fbc875a89b5146f592ae91e8bec191f0) | Rhine_Lab_Muelsyse | CC Attribution | 4.610 | 0.8 MB | `assets/ulke/rusya/hava-savunma-radari/` |
 | Çin · J-20 | [J-20 Stealth Fighter Aircraft](https://sketchfab.com/3d-models/j-20-stealth-fighter-aircraft-74e1222399f94dc28416fd02edd98938) | Void | CC Attribution | 15.539 | 6.9 MB | `assets/ulke/cin/j-20/` |
 | Çin · J-35 | [Shenyang J-35](https://sketchfab.com/3d-models/shenyang-j-35-37085f458d7943cd8314372af76e0f67) | SB-129 | CC Attribution | 8.235 | 1.8 MB | `assets/ulke/cin/j-35/` |
 | Çin · J-16 | [Shenyang J16 "Hidden Dragon"](https://sketchfab.com/3d-models/shenyang-j16-hidden-dragon-2b950f910677457fbb52b6096f81e70b) | andertan | CC Attribution | 14.442 | 1.1 MB | `assets/ulke/cin/j-16/` |
@@ -116,5 +117,5 @@ Gerçek ülkelerin silahları için ayrı klasör: `assets/ulke/<ülke>/<model>/
 - **Type 99 tankının kulesi gövdeyle aynı parçada.**
 - **J-20 (Void.com)** açıklamasız yüklenmiş; kopya işareti yok ama yapımcısı hakkında bilgi de yok.
 - **Bayraktar TB2:** asıl yapımcı TheDevilsEye'ın modeli alındı. 42manako, Hirohito10020 ve teacherap123'ün aynı üçgen sayılı (9.300) kopyaları alınmadı.
-- **Bulunamayan ya da elenen:** Patriot (iki aday Battlefield'dan kopya), HQ-9 ve J-7 ("not my model"), S-400, Altay tankı, Hisar ve Siper (lisansı uygun model yok). Rusya için T-90M ve Pantsir adayları dokusuz beyaz olduğu için alınmadı.
+- **Bulunamayan ya da elenen:** Patriot ve S-300/S-400 (Sketchfab'daki adaylar War Thunder'dan kopya ya da Battlefield'dan; CGTrader, TurboSquid, RenderHub ve Superhive'dakiler ücretli ya da "Editorial" lisanslı), HQ-9 ve J-7 ("not my model"), Altay tankı, Hisar ve Siper (lisansı uygun model yok). Rusya için T-90M ve Pantsir adayları dokusuz beyaz olduğu için alınmadı; hava savunması olarak 1S91 radar aracı kondu.
 

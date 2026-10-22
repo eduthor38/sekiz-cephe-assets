@@ -43,6 +43,7 @@ Modellerde yapılan değişiklik (küçültme, parçalama, renk) varsa jenerikte
 - **Low poly F22 Raptor** (ulke/abd/f-22): yapımcı [SIpriv](https://sketchfab.com/S1Priv), model https://sketchfab.com/3d-models/low-poly-f22-raptor-6a6014b7c88745fb94e7dfa1c015cc55, lisans CC BY 4.0
 - **F-16 Fighter Jet** (ulke/abd/f-16): yapımcı [iedalton](https://sketchfab.com/iedalton), model https://sketchfab.com/3d-models/f-16-fighter-jet-d84491f443384ee488593cc6f0f0839e, lisans CC BY 4.0
 - **Su35** (ulke/rusya/su-35): yapımcı [_Muzaev](https://sketchfab.com/_Muzaev), model https://sketchfab.com/3d-models/su35-8affd5d4f56f4d9190da55b4579bc46a, lisans CC BY 4.0
+- **1S91 “Straight Flush”Low Poly** (ulke/rusya/hava-savunma-radari): yapımcı [Rhine_Lab_Muelsyse](https://sketchfab.com/Rhine_Lab_Muelsyse), model https://sketchfab.com/3d-models/1s91-straight-flushlow-poly-fbc875a89b5146f592ae91e8bec191f0, lisans CC BY 4.0
 - **J-20 Stealth Fighter Aircraft** (ulke/cin/j-20): yapımcı [Void](https://sketchfab.com/Void.com), model https://sketchfab.com/3d-models/j-20-stealth-fighter-aircraft-74e1222399f94dc28416fd02edd98938, lisans CC BY 4.0
 - **Shenyang J-35** (ulke/cin/j-35): yapımcı [SB-129](https://sketchfab.com/hrd4588), model https://sketchfab.com/3d-models/shenyang-j-35-37085f458d7943cd8314372af76e0f67, lisans CC BY 4.0
 - **Shenyang J16 "Hidden Dragon"** (ulke/cin/j-16): yapımcı [andertan](https://sketchfab.com/andertan), model https://sketchfab.com/3d-models/shenyang-j16-hidden-dragon-2b950f910677457fbb52b6096f81e70b, lisans CC BY 4.0
